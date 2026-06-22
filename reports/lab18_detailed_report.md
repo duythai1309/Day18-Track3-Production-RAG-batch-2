@@ -1,6 +1,6 @@
 # Lab 18 — Production RAG Pipeline: Detailed Analysis Report
 
-**Author:** Nguyễn Hoàng Minh  
+**Author:** Phạm Duy Thái  
 **Course:** AICB-P2T3 · Day 18 — Production RAG  
 **Date:** 22 June 2026  
 **Repository:** Day18-Track3-Production-RAG-batch-2
@@ -312,7 +312,7 @@ Format / partial      ██░░░░░░░░  ~10%  (correct fact, incom
 | Pipeline e2e | 10 | 10 | `main.py` exit 0 |
 | RAGAS scores | 10 | 10 | 3/4 metrics ≥ 0.70 |
 | Failure analysis | 5 | 5 | Bottom-5 + Error Tree in `failure_analysis.md` |
-| Reflection | 15 | 15 | `reflection_NguyenHoangMinh.md` |
+| Reflection | 15 | 15 | `reflection_PhamDuyThai.md` |
 | **Subtotal** | **100** | **100** | |
 | Bonus: combined enrichment | +2 | +2 | `_enrich_single_call()` |
 | Bonus: faithfulness ≥ 0.85 | +3 | 0 | Prod 0.725 |
@@ -362,7 +362,7 @@ The most valuable finding is not a score improvement but a **process insight**: 
 | `reports/naive_baseline_report.json` | Baseline scores |
 | `analysis/failure_analysis.md` | Bottom-5 deep dive |
 | `analysis/group_report.md` | Summary for presentation |
-| `analysis/reflections/reflection_NguyenHoangMinh.md` | Individual reflection |
+| `analysis/reflections/reflection_PhamDuyThai.md` | Individual reflection |
 | `src/pipeline.py` | Production pipeline entry |
 | `main.py` | Baseline + production + comparison |
 

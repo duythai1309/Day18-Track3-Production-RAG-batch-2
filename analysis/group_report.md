@@ -2,7 +2,7 @@
 
 **Nhóm:** Production RAG Batch 2  
 **Ngày:** 22/06/2026  
-**Thành viên:** Nguyễn Hoàng Minh (implement toàn bộ M1–M5)
+**Thành viên:** Phạm Duy Thái (implement toàn bộ M1–M5)
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Tên | Module | Hoàn thành | Tests pass |
 |-----|--------|-----------|-----------|
-| Nguyễn Hoàng Minh | M1: Chunking | ✅ | 13/13 |
-| Nguyễn Hoàng Minh | M2: Hybrid Search | ✅ | 5/5 |
-| Nguyễn Hoàng Minh | M3: Reranking | ✅ | 5/5 |
-| Nguyễn Hoàng Minh | M4: Evaluation | ✅ | 4/4 |
-| Nguyễn Hoàng Minh | M5: Enrichment | ✅ | 10/10 |
+| Phạm Duy Thái | M1: Chunking | ✅ | 13/13 |
+| Phạm Duy Thái | M2: Hybrid Search | ✅ | 5/5 |
+| Phạm Duy Thái | M3: Reranking | ✅ | 5/5 |
+| Phạm Duy Thái | M4: Evaluation | ✅ | 4/4 |
+| Phạm Duy Thái | M5: Enrichment | ✅ | 10/10 |
 
 **Tổng:** 37/37 tests pass · Pipeline end-to-end exit code 0
 

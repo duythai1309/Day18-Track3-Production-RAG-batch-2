@@ -1,6 +1,6 @@
 # Individual Reflection — Lab 18: Production RAG
 
-**Tên:** Nguyễn Hoàng Minh  
+**Tên:** Phạm Duy Thái  
 **Ngày:** 22/06/2026  
 **Lab:** Day 18 — Production RAG Pipeline (AICB-P2T3)
 
